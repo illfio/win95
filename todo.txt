@@ -1,0 +1,13 @@
+- add item active functionality on bottom screen
+- add clicked css (dotted border around)
+
+- if i click on item in the desktop
+    -> one click, blue 
+, create a start menu item, 
+
+
+
+
+
+if i double click an application,
+-> for the certain item, push 
