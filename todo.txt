@@ -1,13 +1,7 @@
-- add item active functionality on bottom screen
-- add clicked css (dotted border around)
-
-- if i click on item in the desktop
-    -> one click, blue 
-, create a start menu item, 
-
-
-
-
-
-if i double click an application,
--> for the certain item, push 
+- add clicked css on icons (dotted border around)
+- if the empty is empty, dont push anything
+- resizing the start menu clicked panel
+- restructure code
+- if the desktop app item is already opened, cannot push again into startmenu, or have active app menu
+- style _ in activeApp nav
+- positioning elements randomly works, however when another element is passed through, all the elements shift
